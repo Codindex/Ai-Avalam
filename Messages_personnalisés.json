@@ -1,0 +1,20 @@
+{
+    "perfectmove": "Merci, c'est trop sympas :)",
+
+    "start1": "Debut de partie à la cool",
+    "start2": "Chuis pas inquet...",
+    "start3": "... mais bon, que le meilleur gagne !",
+    "start4": "Ouais je suis fair-play",
+    "start5": "Mais je ne vais pas te laisser gagner pour autant",
+
+    "blockmove":"Intouchable :P",
+    "antiblock":"Bien essayé...",
+
+    "goodmove": "Hmm, je sais pas trop ce que tu vas me proposer...",
+    "suremove": "Pas trop le choix, mais bon c'est mieux que rien",
+    "almostbadmove": "Tiens, cadeau, j'ai pas mieux à proposer",
+
+    "notbadmove":"Heu... bon je vais jouer ça, on verra bien...",
+    "badmove":"Oof ! Pas trop le choix, mais ça veux dire que c'est presque fini...",
+    "lastmove":"Il reste plus que ce truc, alors osef j'ai sûrement perdu :P"
+}
